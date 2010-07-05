@@ -1,4 +1,5 @@
 Revision history for Perl extension DBIx::DBHResolver::Strategy::RoundRobin
 
-0.01    Wed Jun 30 14:58:11 2010
+0.01
+   2010-06-30
         - original version
