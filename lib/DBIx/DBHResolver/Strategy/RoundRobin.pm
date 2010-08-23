@@ -1,7 +1,7 @@
 package DBIx::DBHResolver::Strategy::RoundRobin;
 use strict;
 use warnings;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub connect_info {
     my ($class, $resolver, $label, ) = @_;
